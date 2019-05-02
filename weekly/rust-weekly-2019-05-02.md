@@ -1,10 +1,13 @@
 ## Rust-weekly-2019-05-02
 
-> 欢迎参与Rust中文 Rust-weekly
+>欢迎参与Rust中文:Rust-weekly [参与入口](https://github.com/rustlang-cn/weekly/blob/master/Rust-weekly-next.md)
 
 ## 新闻
 
 1. [This Week in Rust 284](https://this-week-in-rust.org/blog/2019/04/30/this-week-in-rust-284/)
+2. [取代不了 C/C++ 的 Rust 如何“逆袭”？](http://www.ijiandao.com/2b/baijia/248292.html)
+3. [RISC-V会是一道曙光吗？RISC-V与RUST相遇引发操作系统教学新尝试
+](http://www.elecfans.com/d/926253.html)
 
 
 ## 文章
@@ -13,6 +16,9 @@
 2. [A Close Encounter with Rust Community](https://medium.com/@Aimeedeer/a-close-touch-with-rust-community-4a8507b756d9)
 3. [Rust图形库指南-2019](https://wiki.alopex.li/AGuideToRustGraphicsLibraries2019)
 4. [Rust-scales Python: Basic Experiment](https://medium.com/@lorenzogotuned/rust-scales-python-function-d3b1d24351cd)
+5. [rust actix-web布署](https://blog.csdn.net/m0_37696990/article/details/89681495)
+6. [rust actix-web 响应头中的set-cookie不起作用
+](https://blog.csdn.net/m0_37696990/article/details/89680584)
 
 ## Crates
 

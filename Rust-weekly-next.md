@@ -15,6 +15,8 @@
 
 ## Crates
 
+1. [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings
+
 
 
 ## Rust相关
@@ -24,3 +26,6 @@
 
 ## 有趣
 
+1. [GNU Guix 1.0.0 released](https://www.gnu.org/software/guix/blog/2019/gnu-guix-1.0.0-released/)
+2. [flow9: a cross-platform modern UI for Web, iOS, Android, Windows, Mac, Linux android ios linux mac web windows](https://flow9.org/)
+3. [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)

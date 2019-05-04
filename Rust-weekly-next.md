@@ -16,7 +16,8 @@
 ## Crates
 
 1. [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings
-
+2. [microamp](https://github.com/japaric/microamp) - 
+A (micro) framework for building bare-metal AMP (Asymmetric Multi-Processing) applications
 
 
 ## Rust相关

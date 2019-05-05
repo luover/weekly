@@ -36,7 +36,7 @@ A backup solution for the distributed enterprise platforms of today.
 
 ## Rust相关
 
-1. [【编程】Rust 教程 | 中文字幕 | 入门 01 - 视频](https://www.bilibili.com/video/av51231703/)
+1. [【编程】Rust 教程 | 中文字幕 - 系列视频](https://space.bilibili.com/331415319?spm_id_from=333.788.b_765f7570696e666f.2)
 
 
 ## 有趣

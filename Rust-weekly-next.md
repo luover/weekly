@@ -19,6 +19,7 @@
 7. [Rust: How to build a Docker image with private Cargo dependencies](https://medium.com/@c_ameron/rust-how-to-build-a-docker-image-with-private-cargo-dependencies-ab91c25c4301)
 8. [Explained: Futures in Rust for Web Development](https://dev.to/gruberb/explained-rust-futures-for-web-development-a10)
 9. [用Rust写脚本语言（一）：一切存在皆对象](https://zhuanlan.zhihu.com/p/64638093)
+10. [Kubernetes operators in rust](https://clux.github.io/probes/post/2019-04-29-rust-on-kubernetes/)
 
 ## Crates
 
@@ -27,6 +28,7 @@
 A (micro) framework for building bare-metal AMP (Asymmetric Multi-Processing) applications
 3. [Graphene](https://github.com/Toure/Graphene) - 
 A backup solution for the distributed enterprise platforms of today.
+4. [shipcat](https://github.com/Babylonpartners/shipcat) - A standardisation tool and security layer on top of kubernetes to config manage microservices
 
 
 

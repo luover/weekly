@@ -20,6 +20,7 @@
 8. [Explained: Futures in Rust for Web Development](https://dev.to/gruberb/explained-rust-futures-for-web-development-a10)
 9. [用Rust写脚本语言（一）：一切存在皆对象](https://zhuanlan.zhihu.com/p/64638093)
 10. [Kubernetes operators in rust](https://clux.github.io/probes/post/2019-04-29-rust-on-kubernetes/)
+11. [用Rust写脚本语言（二）：垃圾收集器](https://zhuanlan.zhihu.com/p/64670554)
 
 ## Crates
 

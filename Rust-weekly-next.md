@@ -29,6 +29,7 @@ A (micro) framework for building bare-metal AMP (Asymmetric Multi-Processing) ap
 3. [Graphene](https://github.com/Toure/Graphene) - 
 A backup solution for the distributed enterprise platforms of today.
 4. [shipcat](https://github.com/Babylonpartners/shipcat) - A standardisation tool and security layer on top of kubernetes to config manage microservices
+5. [quiche](https://github.com/cloudflare/quiche) - quiche is an implementation of the QUIC transport protocol and HTTP/3 as specified by the IETF
 
 
 

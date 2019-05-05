@@ -4,6 +4,7 @@
 
 ## 新闻
 
+1. [Actix系列在最新的Web框架性能排行榜实现所有选项屠榜](https://www.techempower.com/benchmarks/#section=test&runid=021dbe49-bcc4-4ea5-8475-50e9ed8e572f&hw=ph&test=fortune)
 
 
 ## 文章
@@ -12,6 +13,7 @@
 2. [试试看 - 搭建自己的 Rust Cargo Crate 反向代理源](https://zhuanlan.zhihu.com/p/64253975)
 3. [RUST语言在Windows上的编译安装(GCC ABI)](https://www.jianshu.com/p/a6e3b9ffa9d9)
 4. [Windows Linux子系统使用rustup重新安装Rust](https://my.oschina.net/yushulx/blog/3043452)
+5. [Rust parallelism for non-C/C++ developers](https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56)
 
 ## Crates
 
@@ -33,3 +35,5 @@ A backup solution for the distributed enterprise platforms of today.
 1. [GNU Guix 1.0.0 released](https://www.gnu.org/software/guix/blog/2019/gnu-guix-1.0.0-released/)
 2. [flow9: a cross-platform modern UI for Web, iOS, Android, Windows, Mac, Linux android ios linux mac web windows](https://flow9.org/)
 3. [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)
+4. [A Reading List for Computer Scientists](http://john.regehr.org/reading_list/)
+5. [Algebraic Data Types in four languages](https://link.medium.com/Lu8B7iyMqW)

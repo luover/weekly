@@ -18,6 +18,7 @@
 6. [Extending Python with Rust](https://medium.com/@p_chhetri/extending-python-with-rust-84e9299d34c1)
 7. [Rust: How to build a Docker image with private Cargo dependencies](https://medium.com/@c_ameron/rust-how-to-build-a-docker-image-with-private-cargo-dependencies-ab91c25c4301)
 8. [Explained: Futures in Rust for Web Development](https://dev.to/gruberb/explained-rust-futures-for-web-development-a10)
+9. [用Rust写脚本语言（一）：一切存在皆对象](https://zhuanlan.zhihu.com/p/64638093)
 
 ## Crates
 

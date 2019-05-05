@@ -5,6 +5,7 @@
 ## 新闻
 
 1. [Actix系列在最新的Web框架性能排行榜实现所有选项屠榜](https://www.techempower.com/benchmarks/#section=test&runid=021dbe49-bcc4-4ea5-8475-50e9ed8e572f&hw=ph&test=fortune)
+2. [The RustBridge Roadmap for 2019](https://p.veb.cool/phame/live/1/post/1/the_rustbridge_roadmap_for_2019/)
 
 
 ## 文章
@@ -14,6 +15,9 @@
 3. [RUST语言在Windows上的编译安装(GCC ABI)](https://www.jianshu.com/p/a6e3b9ffa9d9)
 4. [Windows Linux子系统使用rustup重新安装Rust](https://my.oschina.net/yushulx/blog/3043452)
 5. [Rust parallelism for non-C/C++ developers](https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56)
+6. [Extending Python with Rust](https://medium.com/@p_chhetri/extending-python-with-rust-84e9299d34c1)
+7. [Rust: How to build a Docker image with private Cargo dependencies](https://medium.com/@c_ameron/rust-how-to-build-a-docker-image-with-private-cargo-dependencies-ab91c25c4301)
+8. [Explained: Futures in Rust for Web Development](https://dev.to/gruberb/explained-rust-futures-for-web-development-a10)
 
 ## Crates
 

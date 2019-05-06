@@ -51,4 +51,5 @@ A backup solution for the distributed enterprise platforms of today.
 6. [Microsoft launches React Native(C++)for Windows](https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/amp/?__twitter_impression=true)
 7. [Announcing WSL 2](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
 8. [Remote Development with VS Code](https://code.visualstudio.com/blogs/2019/05/02/remote-development)
+9. [The 5.1 kernel has been released](https://lwn.net/Articles/787534/)
 

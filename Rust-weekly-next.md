@@ -52,4 +52,5 @@ A backup solution for the distributed enterprise platforms of today.
 7. [Announcing WSL 2](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
 8. [Remote Development with VS Code](https://code.visualstudio.com/blogs/2019/05/02/remote-development)
 9. [The 5.1 kernel has been released](https://www.solidot.org/story?sid=60502&utm_source=tuicool&utm_medium=referral)
+10. [微软宣布 .NET 5 计划，支持跨平台、移动开发](https://www.oschina.net/news/106482/dotnet-5-plan?utm_source=tuicool&utm_medium=referral)
 

@@ -6,6 +6,7 @@
 
 1. [Actix系列在最新的Web框架性能排行榜实现所有选项屠榜](https://www.techempower.com/benchmarks/#section=test&runid=021dbe49-bcc4-4ea5-8475-50e9ed8e572f&hw=ph&test=fortune)
 2. [The RustBridge Roadmap for 2019](https://p.veb.cool/phame/live/1/post/1/the_rustbridge_roadmap_for_2019/)
+3. [This week in Amethyst 16](https://amethyst.rs/blog/twia-16/)
 
 
 ## 文章
@@ -21,6 +22,7 @@
 9. [用Rust写脚本语言（一）：一切存在皆对象](https://zhuanlan.zhihu.com/p/64638093)
 10. [Kubernetes operators in rust](https://clux.github.io/probes/post/2019-04-29-rust-on-kubernetes/)
 11. [用Rust写脚本语言（二）：垃圾收集器](https://zhuanlan.zhihu.com/p/64670554)
+12. [Using Rust for Gamedev](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
 
 ## Crates
 
@@ -46,3 +48,7 @@ A backup solution for the distributed enterprise platforms of today.
 3. [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)
 4. [A Reading List for Computer Scientists](http://john.regehr.org/reading_list/)
 5. [Algebraic Data Types in four languages](https://link.medium.com/Lu8B7iyMqW)
+6. [Microsoft launches React Native(C++)for Windows](https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/amp/?__twitter_impression=true)
+7. [Announcing WSL 2](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
+8. [Remote Development with VS Code](https://code.visualstudio.com/blogs/2019/05/02/remote-development)
+

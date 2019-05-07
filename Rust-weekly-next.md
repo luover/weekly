@@ -11,6 +11,7 @@
 
 ## 文章
 
+[**用Wasmer进行插件开发1 - Rust中文阅读**](https://rustlang-cn.org/read/05/wasmer-plugin-pt-1.html)
 1. [理解 Rust 中的 Closure](https://zhuanlan.zhihu.com/p/64417628)
 2. [试试看 - 搭建自己的 Rust Cargo Crate 反向代理源](https://zhuanlan.zhihu.com/p/64253975)
 3. [RUST语言在Windows上的编译安装(GCC ABI)](https://www.jianshu.com/p/a6e3b9ffa9d9)

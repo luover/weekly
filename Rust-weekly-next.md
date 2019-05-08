@@ -24,6 +24,7 @@
 10. [Kubernetes operators in rust](https://clux.github.io/probes/post/2019-04-29-rust-on-kubernetes/)
 11. [用Rust写脚本语言（二）：垃圾收集器](https://zhuanlan.zhihu.com/p/64670554)
 12. [Using Rust for Gamedev](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
+13. [6 useful Rust macros that you might not have seen before](https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5)
 
 ## Crates
 
